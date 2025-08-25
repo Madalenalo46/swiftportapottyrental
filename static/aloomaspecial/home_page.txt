@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">For an industrial site, can you provide service outside of our primary operating hours to avoid disruption?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We can create a custom service schedule, including early mornings, evenings, or weekends, to ensure our portable toilet service does not interfere with your plant or warehouse operations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the rental cost of porta potty service if we need an unscheduled, emergency cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer on-demand servicing. While there is a fee for unscheduled calls, we can dispatch a truck promptly to handle any immediate cleaning or maintenance needs that arise outside of your regular schedule.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> How many people can one handwashing station serve?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A standard two-station handwashing unit contains enough fresh water to provide for approximately 200-250 individual uses before it needs to be refilled.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> Is there a different port o potty rental cost for emergency situations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We have standardized emergency service rates. Our focus is on providing swift and transparent assistance, and we work closely with organizations to provide clear portable toilet rental prices for planning and reimbursement purposes.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Does the cost for a porta potty include delivery and pickup?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our quotes for portable toilet rental prices are all-inclusive. They cover the delivery to your site, the final pickup after your event, and any scheduled servicing in between.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the difference between hand sanitizer and a standalone handwash station?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hand sanitizer, included in our deluxe units, is a great option for convenience. A standalone handwash station provides a more thorough cleaning with fresh running water and soap, which is often preferred for food festivals and long-term construction sites.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
